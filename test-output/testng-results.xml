@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-09T16:12:18 EET" name="Default suite" finished-at="2023-11-09T16:12:49 EET" duration-ms="31016">
+    <groups>
+    </groups>
+    <test started-at="2023-11-09T16:12:18 EET" name="Default test" finished-at="2023-11-09T16:12:49 EET" duration-ms="31016">
+      <class name="Magento.MyTestCases">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:Magento.MyTestCases@c260bdc]" started-at="2023-11-09T16:12:18 EET" name="MySetup" finished-at="2023-11-09T16:12:24 EET" duration-ms="5664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="AddOneRandomItem()[pri:0, instance:Magento.MyTestCases@c260bdc]" started-at="2023-11-09T16:12:24 EET" name="AddOneRandomItem" finished-at="2023-11-09T16:12:49 EET" duration-ms="24402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddOneRandomItem -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:Magento.MyTestCases@c260bdc]" started-at="2023-11-09T16:12:49 EET" name="PostTesting" finished-at="2023-11-09T16:12:49 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- Magento.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
